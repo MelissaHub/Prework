@@ -45,5 +45,28 @@ table, th, td {
   }
 
   .butt{ 
-      color:blueviolet;
+      color:blue;
+      font-size:large;
+  }
+
+  h2{ 
+      color:green;
+      font-style:italic;
+  }
+  .happy{
+      background-color:goldenrod;
+  }
+
+  *{
+      margin:0;
+      padding:0;
+      border:0;
+  }
+
+  .wow{
+      position:fixed;
+      background-color: pink;
+  }
+  .welp{ 
+        position:relative;
   }
